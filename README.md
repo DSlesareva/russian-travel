@@ -17,5 +17,5 @@
 
 
 **Готовая страница**
-[Ссылка на готовую страницу](https://dslesareva.github.io/russian-travel/)
+* [Ссылка на готовую страницу](https://dslesareva.github.io/russian-travel/)
 
