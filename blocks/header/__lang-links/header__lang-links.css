@@ -8,10 +8,9 @@
   padding-left: 36px;
 }
 
-
-
 @media screen and (max-width: 767px) {
   .header__lang-links {
     padding-top: 14px;
+    padding-left: 20px;
   }
 }
